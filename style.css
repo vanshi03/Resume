@@ -1,0 +1,165 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container .left-resume{
+	background-color:#0000A5;
+	width:15%;
+	height:100%;
+	float: left;
+
+}
+
+.container .right-resume{
+	margin-top:0px;
+	width: 85%;
+	height: 100%;
+	padding-left:7%;
+	margin-left:150px;
+}
+
+.container .left-resume .info .name{
+	color: white;
+	padding-top:15px;
+	padding-left:15px;
+	font-family: sans-serif;
+}
+
+.container .left-resume .info .designation{
+	color: white;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+.container .left-resume .heading{
+	color: white;
+	padding-top:3px;
+	padding-left:15px;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: bold;
+	background-color: #191970;
+	text-align: left;
+}
+
+.container .left-resume .sub-details{
+	color: white;
+	font-size: 13px;
+	padding-left: 15px;
+	padding-top: 7px;
+	padding-right: 5px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.container .left-resume .sub-info{
+	color: white;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	font-family: sans-serif;
+	overflow-wrap: break-word;
+}
+
+.container .left-resume .progress{
+        background-color:#191970;
+        border-radius:8px;
+        margin-left: 10px;
+        margin-right: 10px;
+      	height: 10px;
+
+}
+
+
+.container .left-resume .progress .inner-progress{
+        background-color:white;
+        height: 10px;
+        border-radius: 8px;
+}
+
+
+ .container .left-resume .progress .cpp {
+            width:60%;
+        }
+
+.container .left-resume .progress .java {
+            width:30%;
+        }
+.container .left-resume .progress .python {
+            width:70%;
+        }
+.container .left-resume .progress .r {
+            width:50%;
+        }
+
+.container .left-resume .progress .html {
+            width:60%;
+        }
+
+
+
+.container .left-resume .progress .css {
+            width:60%;
+        }
+.container .left-resume .progress .js {
+            width:40%;
+        }
+.container .left-resume .progress .sql {
+            width:30%;
+        }
+.container .left-resume .progress .english {
+            width:80%;
+        }
+.container .left-resume .progress .hindi {
+            width:100%;
+        }
+
+.container .left-resume .progress .french {
+            width:70%;
+        }
+
+/*.container .right-resume{
+	width: 85%;
+	height: 100%;
+	margin-left:16%;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+.container .right-resume .headings{
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}*/
+
+.container .right-resume .headings{
+	color: blue;
+	font-weight: bolder;
+	font-size: 18px;
+	text-align: left;
+	font-family: sans-serif;
+	padding-top: 10px;
+}
+
+.container .right-resume  .info{
+	color: black;
+	font-size: 12px;
+	text-align: left;
+	font-weight: bolder;
+	font-family: 'Roboto Mono', monospace;
+	word-wrap: break-word;
+}
+
+.container .right-resume .highlights{
+	color: black;
+	font-size: 14px;
+	text-align: left;
+	font-weight: 900;
+	/*font-family: 'Roboto Mono', monospace;*/
+	word-wrap: break-word;
+}
